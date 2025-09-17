@@ -39,7 +39,7 @@ Stone, Paper & Scissors Game/
 
 ## 📸 Screenshots
 
-![Gameplay Screenshot](Stone,%20Paper%20&%20Scissors%20Game/images/rock.png)
+![Gameplay Screenshot]<img width="1434" height="778" alt="image" src="https://github.com/user-attachments/assets/e7be804f-aa4f-4ca0-83de-9772a7fbf2be" />)
 
 *(You can add your own screenshots here to showcase the interface.)*
 
